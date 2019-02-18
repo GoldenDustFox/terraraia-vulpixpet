@@ -1,0 +1,5 @@
+author = DustFox
+version = 1.0
+displayName = Vulpix Pets
+hideCode = true
+hideResources = false
